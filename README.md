@@ -1,2 +1,2 @@
 # SaferMarket
-Safer Market
+ Android application to monitor the degree of crowding in supermarkets
